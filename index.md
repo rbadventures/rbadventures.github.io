@@ -14,7 +14,7 @@ Você é livre para recusar a nossa solicitação de informações pessoais, ent
 O uso continuado de nossas aplicações será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto conosco.
 
 
-Esta política é efetiva a partir de Janeiro/2021.
+Esta política é efetiva a partir de Janeiro/2022.
 
 ### Suporte ou contato
 Tem alguma dúvida? pode entrar em contato através do email: tlouprojindi@gmail.com
