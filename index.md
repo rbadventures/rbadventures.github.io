@@ -1,7 +1,7 @@
 # Política Privacidade
 
 
-A sua privacidade é importante para nós. É política da Orion7 Apps respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar nos apps da Orion7 Apps, e outros apps que possuímos e operamos.
+A sua privacidade é importante para nós. É política da RB Adventures respeitar a sua privacidade em relação a qualquer informação sua que possamos coletar nos apps da RB Adventures, e outros apps que possuímos e operamos.
 
 Solicitamos informações pessoais apenas quando realmente precisamos delas para lhe fornecer um serviço. Fazemo-lo por meios justos e legais, com o seu conhecimento e consentimento. Também informamos por que estamos coletando e como será usado.
 
@@ -13,12 +13,10 @@ Você é livre para recusar a nossa solicitação de informações pessoais, ent
 
 O uso continuado de nosso site será considerado como aceitação de nossas práticas em torno de privacidade e informações pessoais. Se você tiver alguma dúvida sobre como lidamos com dados do usuário e informações pessoais, entre em contacto connosco.
 
-Em nossas aplicações que são dependentes de API externas de terceiros, algumas funcionalidades podem vir a deixar de funcionar em caso de mudança das mesmas, portanto esteja ciente disto.
-
 Mais informações
 Esperemos que esteja esclarecido e, como mencionado anteriormente, se houver algo que você não tem certeza se precisa ou não, geralmente é mais seguro deixar os cookies ativados, caso interaja com um dos recursos que você usa em nosso site.
 
-Esta política é efetiva a partir de Julho/2020.
+Esta política é efetiva a partir de Janeiro/2021.
 
 ### Suporte ou contato
-Tem alguma dúvida? pode entrar em contato através do email: orion7apps@gmail.com
+Tem alguma dúvida? pode entrar em contato através do email: tlouprojindi@gmail.com
